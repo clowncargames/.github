@@ -1,6 +1,6 @@
 # Welcome to Clown Car Games! 👋
 
-We are a small indie developer who specializes in making games in Godot Engine.
+We are a small indie developement team who specializes in making games in Godot Engine.
 
 ## Our Games
 
