@@ -30,4 +30,5 @@ We are a small indie developer who specializes in making games in Godot Engine.
 
 ## Contact Us!
 
-You can contact our development team and our community on [discord](https://discord.com/invite/nPj9cNZu2s)!
+- You can interact with our development team and our community on [discord](https://discord.com/invite/nPj9cNZu2s)!
+- You can email us at [clowncargames@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJfnbGzwQsFjgBlsPhZKtcrLPhhnpnkPzwFmRrrZrgNLMVZQrKjzjKngHwpMQFwPrbwgbzL)
