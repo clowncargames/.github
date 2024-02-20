@@ -16,7 +16,7 @@ We are a small indie development team who specializes in making games in Godot E
   - Created by: Owen Cook
   - Directed by: ?
   - Programming by: Rosa Welch
-  - Art by: Owen Cook and Samus Gillen
+  - Art by: ?
   - Written by: ?
   - Music by: Ada Ray
 
