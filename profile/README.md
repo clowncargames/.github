@@ -4,7 +4,10 @@ We are a small indie development team who specializes in making games in Godot E
 
 ## Our Games
 
+![ICON](https://github.com/clowncargames/.github/assets/82296400/2cc12af3-dec4-4956-a661-53e38eba627c = 100x100)
+
 ### Curse of the Rose Moon
+
   - Created by: Rosa Welch
   - Directed by: Rosa Welch
   - Programming by: Rosa Welch
