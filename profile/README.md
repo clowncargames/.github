@@ -17,7 +17,7 @@ We are a small indie development team who specializes in making games in Godot E
 ### Dwarf Tavern
   - Created by: Owen Cook
   - Directed by: ?
-  - Programming by: Rosa Welch
+  - Programming by: Owen Cook
   - Art by: ?
   - Written by: ?
   - Music by: Ada Ray
