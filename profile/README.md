@@ -1,6 +1,6 @@
 # Welcome to Clown Car Games! 👋
 
-We are a small indie development team who specializes in making games in Godot Engine.
+We are a small indie development team that specializes in making games in Godot Engine.
 
 ## Our Games
 
@@ -10,7 +10,7 @@ We are a small indie development team who specializes in making games in Godot E
   - Created by: Rosa Welch
   - Directed by: Rosa Welch
   - Programming by: Rosa Welch
-  - Art by: Owen Cook and Samus Gillen
+  - Art by: Owen Cook
   - Written by: Skye Wattler
   - Music by: Ada Ray
 
@@ -24,11 +24,10 @@ We are a small indie development team who specializes in making games in Godot E
 
 ## Our Staff
 
-- Director, Lead Developer - Rosa Welch
-- Art Director, Community Manager, Producer - Owen Cook
-- Lead Writer - Skye Wattler
-- Music Director, Music Producer - Ada Ray
-- Animator, Pixel Artist - Samus Gillen
+- Rosa Welch
+- Owen Cook
+- Skye Wattler
+- Ada Ray
 
 ## Contact Us!
 
