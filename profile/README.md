@@ -7,19 +7,11 @@ We are a small indie development team that specializes in making games in Godot 
 ### Curse of the Rose Moon
 <img src='https://github.com/clowncargames/.github/assets/82296400/2cc12af3-dec4-4956-a661-53e38eba627c' width=50 height=50>
 
-  - Created by: Rosa Welch
+  - Created by: Clown Car Games
   - Directed by: Rosa Welch
-  - Programming by: Rosa Welch
-  - Art by: Owen Cook
+  - Programming by: Rosa Welch, Owen Cook
+  - Art by: Owen Cook, Daniel Orantes
   - Written by: Skye Wattler
-  - Music by: Ada Ray
-
-### Dwarf Tavern
-  - Created by: Owen Cook
-  - Directed by: ?
-  - Programming by: Owen Cook
-  - Art by: ?
-  - Written by: ?
   - Music by: Ada Ray
 
 ## Our Staff
@@ -28,6 +20,7 @@ We are a small indie development team that specializes in making games in Godot 
 - Owen Cook
 - Skye Wattler
 - Ada Ray
+- Daniel Orantes
 
 ## Contact Us!
 
